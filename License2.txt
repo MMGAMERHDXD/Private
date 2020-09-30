@@ -1,7 +1,1 @@
-1.
-KEY: RiskyTown
-IP: 5.135.253.73
-
-2.
-KEY: MoonLight
-IP: 193.70.13.123
+KEY:khfgbvnmsee
